@@ -1,0 +1,82 @@
+.sectionComPessoasEstilo {
+    display: flex;
+    margin-bottom: 2em;
+}
+
+.sectionComPessoasImagem {
+    margin-top: 1em;
+    background-color: #F6F5F4;
+    display: flex;
+    flex-direction: column;
+    padding: 10em 2em 0em 2em;
+    border-radius: 12px;
+
+}
+
+.sectionComPessoasTextoDescritivo {
+    padding-top: 9em;
+    display: flex;
+    justify-content: center;
+
+
+
+    color: #121212;
+
+    font-family: Inter;
+    font-size: 16.1px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0.008px;
+
+}
+
+.sectionComPessoasTextos {
+    margin: 1em 1em 0em 1em;
+    background-color: #F6F5F4;
+    height: 200px;
+    padding: 2em;
+    border-radius: 12px;
+
+}
+
+.textoOpeyere {
+    width: 300px;
+}
+
+.sectionComPessoasTitulos {
+    padding-left: 3em;
+    color: #050505;
+
+    font-family: Inter;
+    font-size: 14.9px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0.02px;
+}
+
+.sectionComPessoasTextos3 {
+    padding-left: 3em;
+    padding-bottom: 1em;
+    color: rgba(0, 0, 0, 0.60);
+
+    font-family: Inter;
+    font-size: 15.1px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0.014px;
+}
+
+.sectionComPessoasConteudo {
+    color: #121212;
+
+    font-family: Inter;
+    font-size: 15.1px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0.014px;
+}
+
