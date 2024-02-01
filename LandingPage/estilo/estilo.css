@@ -1,0 +1,18 @@
+@import url(header.css);
+@import url(sectionTopo.css);
+@import url(sectionMeio.css);
+@import url(sectionMeio2.css);
+@import url(sectionMarcasMeio.css);
+@import url(SectionFerramentasMeio.css);
+@import url(sectionPowebuild.css);
+@import url(sectionCustomizer.css);
+@import url(Ferramentas.css);
+@import url(sectionValores.css);
+@import url(sectionComPessoas.css);
+@import url(seccoesAcabando.css);
+@import url(sectionPreFooter.css);
+@import url(footer.css);
+body{
+    font-family: --font-family-inter;
+    font-size: 14px;
+}

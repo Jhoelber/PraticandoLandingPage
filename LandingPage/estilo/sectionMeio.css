@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+.sectionMeio{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 4em;
+}
+.sectionMeioTextos{
+    display: flex;
+    gap: 1em;
+    
+}
+.sectionMeioTextosEstilo{
+    padding: 1em;
+    background-color: #F6F5F4;
+    border-radius: 12px;
+    
+}
+.tituloMeio{
+    color: #050505;
+
+    font-family: Inter;
+    font-size: 19.8px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 25px; 
+    letter-spacing: -0.236px;
+}
+
+.leiaMaisMeio{
+    font-weight: 400;
+}
+
+.textoInternoMeio{
+    color: #050505;
+
+font-family: Inter;
+font-size: 13.6px;
+font-style: normal;
+font-weight: 400;
+line-height: 19px; /* 139.706% */
+letter-spacing: 0.101px;
+}
+
+.leiaMaisMeio{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    font-family: Inter;
+font-size: 13.3px;
+font-style: normal;
+font-weight: 600;
+line-height: 19px; /* 142.857% */
+letter-spacing: 0.05px;
+
+}
+
+.leiaMaisMeio1{
+    margin-top: 1.4em;
+}
+
+.ColortextoNew{
+    color: #F8792A;
+}
+
+.imagemResquet{
+    padding: 2em;
+    width: 57%;
+}

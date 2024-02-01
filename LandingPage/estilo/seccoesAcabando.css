@@ -1,0 +1,125 @@
+.seccoesAcabando2 {
+    display: flex;
+    justify-items: flex-start;
+    align-items: flex-start;
+    text-align: start;
+
+}
+
+.seccoesAcabando1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2em;
+   
+}
+
+
+.textos{
+display: flex;
+
+flex-direction: column;
+
+}
+.griTemplat1,
+.griTemplat2 {
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    
+    
+}
+
+.griTemplat2{
+    margin-top: 12px;
+}
+
+
+.sectionDeEstilo {
+    background-color: #F6F5F4;
+    padding: 2em;
+    margin-left: 1em;
+    width: 180px;
+height: 100px;
+    border-radius: 12px;
+    
+}
+.sectionMor{
+    display: grid;
+    justify-content: center;
+    
+}
+
+.colocarNoComeco{
+    display: flex;
+    justify-content: flex-start;
+    align-items: start;
+    flex-direction: column;
+    padding: 0 0 1em 0;
+
+    
+}
+
+.tituloColocarNocomeco{
+    color: #050505;
+
+    font-family: Inter;
+    font-size: 17.9px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 134.078% */
+    letter-spacing: -0.13px;
+
+}
+
+.textoColocarNocomeco{
+
+    color: #0A85D1;
+
+font-family: Inter;
+font-size: 16.1px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 149.068% */
+}
+
+.tituloSecao{
+    color: #121212;
+
+font-family: Inter;
+font-size: 44.8px;
+font-style: normal;
+font-weight: 700;
+line-height: 49px; /* 109.375% */
+letter-spacing: -1.211px;
+}
+.pragrafosecao{
+    color: #0A85D1;
+
+font-family: Inter;
+font-size: 16.1px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 149.068% */
+}
+
+.estilizar{
+    background-color: #f6F5F4;
+    padding: 2em 0 0 2em;
+}
+
+.classeTituloAcabou{
+ 
+    color: #050505;
+
+    font-family: Inter;
+    font-size: 17.9px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 134.078% */
+    letter-spacing: -0.13px;
+    
+
+}

@@ -1,0 +1,41 @@
+.sectionMeioMiliosRun{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin:  3em 0 2em 0;
+}
+
+.sectionMeioMiliosRunTitulo{
+    color: #121212;
+
+    font-family: Inter;
+    font-size: 44.8px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 49px; /* 109.375% */
+    letter-spacing: -1.211px;
+
+}
+
+.sectionMeioMiliosRunParagrafo{
+    color: #121212;
+
+    font-family: Inter;
+    font-size: 16.1px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 23px; /* 142.857% */
+    letter-spacing: 0.008px;
+
+}
+
+.sectionMeioMiliosRunSubTitulo{
+    color: #0A85D1;
+
+font-family: Inter;
+font-size: 16.1px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 149.068% */
+}
