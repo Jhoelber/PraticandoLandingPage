@@ -44,4 +44,25 @@
     border-radius: 5px;
 }
 
+.testeLi {
+    border: #F6F5F4;
+    border-radius: 2px;
+    box-shadow: 0px 0px 2px black;
+    background-color: white;
+    padding: 6px;
+    display: block;
+    position: absolute;
+    display: none;
 
+}
+
+
+.listaDrop {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.teste:hover .testeLi {
+    display: block;
+}
